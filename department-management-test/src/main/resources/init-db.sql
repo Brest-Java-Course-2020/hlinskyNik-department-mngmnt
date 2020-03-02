@@ -1,0 +1,1 @@
+INSERT INTO department(    departmentId,    departmentName) VALUES ('1', 'NIKITA');
